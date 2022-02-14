@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/maxwelldeveloper7">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=maxwelldeveloper7&show_icons=true&theme=dark&locale=pt-BR"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldeveloper7&layout=compact&langs_count=16&theme=dark&hide=plpgsql,ruby,scss,shell&locale=pt-BR"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldeveloper7&layout=compact&langs_count=16&theme=dark&hide=plpgsql,ruby,scss,shell"/>
 </div>
 <br>
 <h2>Linguagens</h2>
