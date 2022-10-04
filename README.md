@@ -24,3 +24,4 @@
   <img align="center" alt="node" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="django" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
 </div>
+
