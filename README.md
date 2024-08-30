@@ -7,7 +7,7 @@
   <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxwelldeveloper7&layout=compact&langs_count=16&theme=dark&locale=pt-BR"/>    
 </div>
 <br>
-<h2>Tech Stack</h2>
+<h2>Languages and Tools:</h2>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
