@@ -1,13 +1,48 @@
 
 <h1>Developer</h1>
+<table align="center">
+   <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maxwelldeveloper7&theme=algolia&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwelldeveloper7&theme=algolia&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldeveloper7&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+   </tr>   
+</table>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center"> 
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxwelldeveloper7&theme=algolia" height="200em width=455em" />
+      </td>
+      <td width="50%" align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxwelldeveloper7&theme=algolia" height="200em" width="455em" />
+  </td>
+</tr>
+</table>
+      
 
-<div>
-  <a href="https://github.com/maxwelldeveloper7">
-  <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxwelldeveloper7&show_icons=true&theme=dark&locale=pt-BR"/>
-  <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxwelldeveloper7&layout=compact&langs_count=16&theme=dark&locale=pt-BR"/>    
-</div>
+<table align="center">
+   <tr border="none">
+      <td width="100%" align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxwelldeveloper7&theme=algolia" height="200em" width="822.5em" />
+     </td>
+   </tr>
+</table>
+
+
+<!--- trophy (start) -->
+<table align="center">
+   <tr border="none">
+      <td width="100%" align="center">
+         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=maxwelldeveloper7&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
+      </td>
+   </tr>
+</table>
 <br>
-<h2>Languages and Tools:</h2>
+<h2>Skills</h2>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -90,5 +125,4 @@
     </td>
  </tr>
 </table>
-<br><br>
-</table>
+
